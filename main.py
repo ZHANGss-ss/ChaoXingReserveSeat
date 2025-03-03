@@ -17,7 +17,7 @@ ENDTIME = "20:30:00" # 根据学校的预约座位时间+1min即可
 
 ENABLE_SLIDER = False # 是否有滑块验证
 MAX_ATTEMPT = 5 # 最大尝试次数
-RESERVE_NEXT_DAY = Flase # 预约明天而不是今天的
+RESERVE_NEXT_DAY = False # 预约明天而不是今天的
 
                 
 
